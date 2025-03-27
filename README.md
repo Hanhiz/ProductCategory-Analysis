@@ -3,16 +3,6 @@
 ## 📌 Overview
 ProductCategory-Analysis is a data analysis project focused on examining e-commerce product categories. The goal is to extract insights from product data to understand trends, pricing patterns, and customer preferences.
 
-## 📂 Project Structure
-```
-ProductCategory-Analysis/
-│-- E-Commerce/               # Folder containing analysis files
-│   │-- analysis.ipynb        # Jupyter Notebook with data analysis
-│-- data/                     # Raw and processed datasets (if applicable)
-│-- scripts/                  # Python scripts for data processing
-│-- README.md                 # Project documentation (this file)
-```
-
 ## 🛠 Installation
 To set up this project locally:
 1. **Clone the repository**:
